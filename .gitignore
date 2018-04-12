@@ -1,0 +1,15 @@
+target/
+project/project
+project/target
+
+.idea
+*.iml
+
+*.swp
+src/main/resources/data/pageviews-by-second-tsv
+.DS_Store
+
+/tmp
+
+/metastore_db/
+derby.log
